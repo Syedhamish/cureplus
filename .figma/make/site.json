@@ -1,0 +1,10 @@
+{
+  "description": "Connects patients with nearby hospitals, real-time bed and resource availability, doctors, appointments, and emergency ambulance services while helping hospitals manage care.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
